@@ -2,7 +2,7 @@
 name = "dungeon"
 version = "0.0.1"
 authors = [ "Chris Ohk <utilforever@gmail.com>" ]
-edition = "2021"
+edition = "2018"
 description = "The Dungeon Toolkit written in Rust"
 
 readme = "README.md"
